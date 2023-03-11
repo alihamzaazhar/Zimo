@@ -1,0 +1,22 @@
+export const contacts = [
+    { name: 'Alice', phoneNumber: '123-456-7890' , joined: 0},
+    { name: 'Adam', phoneNumber: '234-567-8901' , joined: 1},
+    { name: 'Avery', phoneNumber: '345-678-9012',joined: 0 },
+    { name: 'Alex', phoneNumber: '456-789-0123' ,joined: 1},
+    { name: 'Andrew', phoneNumber: '567-890-1234' ,joined: 0},
+    { name: 'Abby', phoneNumber: '678-901-2345' ,joined: 1},
+    { name: 'Aaron', phoneNumber: '789-012-3456', joined: 0 },
+    { name: 'Angie', phoneNumber: '890-123-4567', joined: 0 },
+    { name: 'Amy', phoneNumber: '901-234-5678' ,joined: 1},
+    { name: 'Amanda', phoneNumber: '012-345-6789', joined: 0 },
+    { name: 'Bob', phoneNumber: '123-456-7890', joined: 0 },
+    { name: 'Ben', phoneNumber: '234-567-8901' ,joined: 1},
+    { name: 'Beth', phoneNumber: '345-678-9012', joined: 0 },
+    { name: 'Bill', phoneNumber: '456-789-0123', joined: 0 },
+    { name: 'Brandon', phoneNumber: '567-890-1234' ,joined: 1},
+    { name: 'Brian', phoneNumber: '678-901-2345', joined: 0 },
+    { name: 'Brad', phoneNumber: '789-012-3456', joined: 0 },
+    { name: 'Barb', phoneNumber: '890-123-4567' ,joined: 1},
+    { name: 'Brenda', phoneNumber: '901-234-5678', joined: 0 },
+    { name: 'Britney', phoneNumber: '012-345-6789', joined: 0 }
+  ];
